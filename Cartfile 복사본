@@ -1,0 +1,6 @@
+github "attaswift/BigInt" == 5.3.0
+github "krzyzanowskim/CryptoSwift" == 1.6.0
+github "Boilertalk/secp256k1.swift" == 0.1.7
+github "apple/swift-collections" == 1.0.3
+github "vapor/websocket-kit" == 2.6.1
+github "mxcl/PromiseKit" == 6.18.1
